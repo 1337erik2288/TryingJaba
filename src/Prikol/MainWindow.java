@@ -12,7 +12,12 @@ public class MainWindow extends JFrame {
         //setSize(200, 200);
 
         JButton but1 = new JButton("Click me");
-        but1.addActionListener(new MyListener());
+        but1.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+            }
+        });
         add(but1);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
@@ -24,10 +29,4 @@ public class MainWindow extends JFrame {
     }
 }
 
-class MyListener implements ActionListener{
 
-    @Override
-    public void actionPerformed(ActionEvent e) {
-        System.out.println("Click");
-    }
-}
