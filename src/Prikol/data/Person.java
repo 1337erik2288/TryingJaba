@@ -1,6 +1,7 @@
 package Prikol.data;
 
 public abstract class Person {
+    protected String fio;
 
     public Person(String fio) {}
 
@@ -11,6 +12,5 @@ public abstract class Person {
     public String getFio() {
         return fio;
     }
-    protected String fio;
 
 }

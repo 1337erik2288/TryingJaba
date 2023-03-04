@@ -16,4 +16,11 @@ public class University {
         persons.add(new Student("Alexey Itter", "1337"));
         persons.add(new Teacher("Golovach Lena Poleno", "Ebat_mozgi"));
     }
+
+    public int getCount(){
+        return this.persons.size();
+    }
+    public Person getPerson(int index){
+        return persons.get(index);
+    }
 }
