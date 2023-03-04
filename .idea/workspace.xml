@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57cb8f8f-6f04-4d95-9674-bdf3d999e6c6" name="Changes" comment="buttONNNNNN">
+    <list default="true" id="57cb8f8f-6f04-4d95-9674-bdf3d999e6c6" name="Changes" comment="jscvsBVBHDV">
+      <change afterPath="$PROJECT_DIR$/src/Prikol/MyTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prikol/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prikol/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prikol/data/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prikol/data/University.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prikol/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prikol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prikol/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/UWU/MainWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677062303252</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jscvsBVBHDV">
+      <created>1677667081263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677667081263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="buttON" />
     <MESSAGE value="buttONNNNNN" />
-    <option name="LAST_COMMIT_MESSAGE" value="buttONNNNNN" />
+    <MESSAGE value="jscvsBVBHDV" />
+    <option name="LAST_COMMIT_MESSAGE" value="jscvsBVBHDV" />
   </component>
 </project>
