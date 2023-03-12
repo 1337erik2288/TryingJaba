@@ -15,6 +15,7 @@ public class University {
         persons.add(new Student("Muck Dy Sick", "1000-7"));
         persons.add(new Student("Alexey Itter", "1337"));
         persons.add(new Teacher("Golovach Lena Poleno", "Ebat_mozgi"));
+        persons.add(new Teacher("Яна Цист", "Ebat_mozgi"));
     }
 
     public int getCount(){

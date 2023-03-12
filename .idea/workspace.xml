@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57cb8f8f-6f04-4d95-9674-bdf3d999e6c6" name="Changes" comment="Ж6ска е6усь с мишкй фреде">
+    <list default="true" id="57cb8f8f-6f04-4d95-9674-bdf3d999e6c6" name="Changes" comment="Ели жабу мужики, пивом запивали">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prikol/MyTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/MyTableModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prikol/UWU/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/UWU/MainWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Prikol/data/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/data/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prikol/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/data/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prikol/data/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/data/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Prikol/data/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prikol/data/University.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677910397871</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ели жабу мужики, пивом запивали">
+      <created>1677949380467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677949380467</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +101,7 @@
     <MESSAGE value="buttONNNNNN" />
     <MESSAGE value="jscvsBVBHDV" />
     <MESSAGE value="Ж6ска е6усь с мишкй фреде" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ж6ска е6усь с мишкй фреде" />
+    <MESSAGE value="Ели жабу мужики, пивом запивали" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ели жабу мужики, пивом запивали" />
   </component>
 </project>

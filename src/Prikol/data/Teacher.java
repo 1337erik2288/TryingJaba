@@ -6,7 +6,7 @@ public class Teacher extends Person {
     private String subject;
 
     public Teacher(String fio, String subject){
-        super(fio);
+        this.fio = fio;
         this.subject = subject;
     }
 

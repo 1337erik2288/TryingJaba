@@ -6,7 +6,7 @@ public class Student extends Person {
     private String group;
 
     public Student(String fio, String group){
-        super(fio);
+        this.fio = fio;
         this.group = group;
     }
 
